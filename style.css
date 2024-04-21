@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:mediumturquoise;
+    height: 100px;
+}
+head{
+    height: 10px;
+    width: 1000px;
+}
